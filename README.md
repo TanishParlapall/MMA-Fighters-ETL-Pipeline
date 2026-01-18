@@ -32,5 +32,5 @@ MMA-Fighters-ETL-Pipeline/
 ├── README.md
 ```
 
-## DAG Overview
+## 🔄 DAG Overview
 ![dag structure](https://github.com/TanishParlapall/MMA-Fighters-ETL-Pipeline/blob/main/images/dag-structure.png)
