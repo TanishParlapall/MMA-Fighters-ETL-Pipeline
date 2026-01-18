@@ -13,7 +13,7 @@ An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API,
 ## 🚀 Features
 - Fetches MMA data from the Sports Data API
 - Transforms and loads data into PostgreSQL
-- Schedules execution with Airflow
+- Schedules weekly execution with Airflow
 - Runs using Docker
 
 ## 🧱 Project Structure
