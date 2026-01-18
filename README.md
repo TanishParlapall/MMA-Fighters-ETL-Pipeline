@@ -32,4 +32,4 @@ MMA-Fighters-ETL-Pipeline/
 ├── README.md
 ```
 
-![dag structure]([https://github.com/TanishParlapall/MMA-Fighters-ETL-Pipeline/blob/main/images/dag-structures.png](https://github.com/TanishParlapall/MMA-Fighters-ETL-Pipeline/blob/main/images/dag-structure.png))
+![dag structure](https://github.com/TanishParlapall/MMA-Fighters-ETL-Pipeline/blob/main/images/dag-structure.png)
