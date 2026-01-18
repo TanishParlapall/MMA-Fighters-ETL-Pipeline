@@ -10,7 +10,6 @@ An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API,
 
 ## Project Structure
 ```
-
 MMA-Fighters-ETL-Pipeline/
 ├── dags/
 │   ├── mma_etl_dag.py
@@ -22,6 +21,4 @@ MMA-Fighters-ETL-Pipeline/
 ├── requirements.txt
 ├── .env.example
 ├── README.md
-
-
 ```
