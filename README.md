@@ -1,5 +1,5 @@
 # 🥋 MMA-Fighters-ETL-Pipeline
-An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API, stages raw records in PostgreSQL, and loads data into cleaned production table for downstream analytics.
+An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API, stages raw records, and loads data into a PostgreSQL table for downstream analytics.
 
 ---
 
