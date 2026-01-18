@@ -31,3 +31,5 @@ MMA-Fighters-ETL-Pipeline/
 ├── .env.example
 ├── README.md
 ```
+
+![dag structure](https://github.com/TanishParlapall/MMA-Fighters-ETL-Pipeline/blob/main/images/dag-structures.png)
