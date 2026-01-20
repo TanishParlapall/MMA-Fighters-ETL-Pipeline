@@ -37,12 +37,15 @@ MMA-Fighters-ETL-Pipeline/
 ![dag structure](https://github.com/TanishParlapall/MMA-Fighters-ETL-Pipeline/blob/main/images/dag-structure.png)
 
 ## 🙋 This project explores the following questions:
-- How does average wingspan compare between champions and non-champions within each weight class?
-- Does age differ significantly between champions and non-champions across weight classes?
-- Do champions tend to win via different methods (knockouts vs submissions) compared to non-champions?
+- How does average wingspan and height compare between champions and non-champions within each weight class?
 - What percent of finishes in MMA come via knockout vs. submission?
-
-
+- How does finish type vary across weight classes?
 
 
 ## 📈 What the data says...
+
+![finish comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png)
+![finish comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png)
+![height comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png)
+![wingspan comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png)
+
