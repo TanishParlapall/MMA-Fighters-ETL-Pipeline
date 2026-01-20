@@ -7,6 +7,7 @@ An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API,
 - `SQL`
 - `Airflow`
 - `PostgreSQL`
+- `Power BI`
 - `Docker`
 
 ## 🚀 Features
