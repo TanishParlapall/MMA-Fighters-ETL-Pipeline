@@ -37,5 +37,8 @@ MMA-Fighters-ETL-Pipeline/
 ## 🙋 Analytical Questions
 
 This project explores the following questions:
-- How does average reach compare between champions and non-champions within each weight class?
+- How does average wingspan compare between champions and non-champions within each weight class?
 - Does age differ significantly between champions and non-champions across weight classes?
+- Do champions tend to win via different methods (knockouts vs submissions) compared to non-champions?
+
+## 📈 What the data says...
