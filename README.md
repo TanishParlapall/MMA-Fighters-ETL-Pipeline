@@ -43,17 +43,8 @@ MMA-Fighters-ETL-Pipeline/
 
 
 ## 📈 What the data says...
-
-![finish comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png)
-![finish comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png)
-![height comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png)
-![wingspan comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png)
-<!--
-Source - https://stackoverflow.com/a
-Posted by alciregi, modified by community. See post 'Timeline' for change history
-Retrieved 2026-01-20, License - CC BY-SA 4.0
--->
-
-<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="1000">
-
+<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png" width="500">
+<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png" width="500">
+<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="500">
+<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="500">
 
