@@ -41,6 +41,7 @@ MMA-Fighters-ETL-Pipeline/
 - What percent of finishes in MMA come via knockout vs. submission?
 - How does finish type vary across weight classes?
 
+#
 
 ## 📈 What the data says...
 
