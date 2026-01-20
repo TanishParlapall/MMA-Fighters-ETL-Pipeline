@@ -1,6 +1,5 @@
 # 🥋 MMA-Fighters-ETL-Pipeline
-An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API, stages raw records, and loads data into a PostgreSQL table for downstream analytics.
-
+An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API, stages raw records, and loads data into a PostgreSQL table for downstream analytics. Transformed data is then connected to Power BI to build interactive visualizations and perform analytical comparisons.
 ---
 
 ## 🤖 Technologies
@@ -34,3 +33,9 @@ MMA-Fighters-ETL-Pipeline/
 
 ## 🔄 DAG Overview
 ![dag structure](https://github.com/TanishParlapall/MMA-Fighters-ETL-Pipeline/blob/main/images/dag-structure.png)
+
+## 🙋 Analytical Questions
+
+This project explores the following questions:
+- How does average reach compare between champions and non-champions within each weight class?
+- Does age differ significantly between champions and non-champions across weight classes?
