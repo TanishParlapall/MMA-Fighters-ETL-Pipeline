@@ -53,9 +53,9 @@ MMA-Fighters-ETL-Pipeline/
 
   <table align="center">
   <tr>
-    <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="850"></td>
+    <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="700"></td>
   </tr>
   <table align="center">
   <tr>
-    <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="850"></td>
+    <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="700"></td>
   </tr>
