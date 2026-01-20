@@ -42,8 +42,6 @@ MMA-Fighters-ETL-Pipeline/
 - How does finish type vary across weight classes?
 
 <pre>
-  <pre>
-    <pre>
 ## 📈 What the data says...
 
 
