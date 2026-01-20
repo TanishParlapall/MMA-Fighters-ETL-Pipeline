@@ -54,6 +54,6 @@ Posted by alciregi, modified by community. See post 'Timeline' for change histor
 Retrieved 2026-01-20, License - CC BY-SA 4.0
 -->
 
-<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="200">
+<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="1000">
 
 
