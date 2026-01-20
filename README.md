@@ -43,6 +43,8 @@ MMA-Fighters-ETL-Pipeline/
 
 
 ## 📈 What the data says...
+
+
 <table align="center">
   <tr>
     <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png" width="350"></td>
