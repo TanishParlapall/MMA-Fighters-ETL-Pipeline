@@ -15,7 +15,7 @@ An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API,
 - Transforms and loads data into PostgreSQL
 - Schedules weekly execution using Airflow
 - Runs using Docker
-- Data can be connected to Power BI for interactive visualizations and analysis
+- Data can be connected to Power BI for analysis
 
 ## 🧱 Project Structure
 ```
@@ -47,6 +47,8 @@ MMA-Fighters-ETL-Pipeline/
   <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png" width="500">
   <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png" width="500">
 </div>
-<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="500">
-<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="500">
-
+## 📈 What the data says...
+<div style="display: flex; gap: 20px;">
+  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="500">
+  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="500">
+</div>
