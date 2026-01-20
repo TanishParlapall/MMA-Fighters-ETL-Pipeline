@@ -48,4 +48,12 @@ MMA-Fighters-ETL-Pipeline/
 ![finish comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png)
 ![height comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png)
 ![wingspan comparison](https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png)
+<!--
+Source - https://stackoverflow.com/a
+Posted by alciregi, modified by community. See post 'Timeline' for change history
+Retrieved 2026-01-20, License - CC BY-SA 4.0
+-->
+
+<img src="https://github.com/favicon.ico" width="48">
+
 
