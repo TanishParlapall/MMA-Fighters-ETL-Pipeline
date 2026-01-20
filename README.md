@@ -43,18 +43,11 @@ MMA-Fighters-ETL-Pipeline/
 
 
 ## 📈 What the data says...
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png" width="500">
-  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="500">
-  
-</div>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="500">
-</div>
-<div style="justify-content: center;">
-  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png" width="500">
-</div>
-
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="400"></td>
+    <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="400"></td>
+  </tr>
 <table align="center">
   <tr>
     <td><img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png" width="400"></td>
