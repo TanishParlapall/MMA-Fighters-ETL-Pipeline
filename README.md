@@ -51,6 +51,6 @@ MMA-Fighters-ETL-Pipeline/
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="500">
 </div>
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="justify-content: center;">
   <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png" width="500">
 </div>
