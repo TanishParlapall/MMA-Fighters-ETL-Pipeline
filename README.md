@@ -43,8 +43,10 @@ MMA-Fighters-ETL-Pipeline/
 
 
 ## 📈 What the data says...
-<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png" width="500">
-<img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png" width="500">
+<div style="display: flex; gap: 20px;">
+  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-pie-chart.png" width="500">
+  <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/finish-comparison.png" width="500">
+</div>
 <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/height-comparison.png" width="500">
 <img src="https://github.com/TanishParlapall/MMA-Fighters-Analysis-Pipeline/blob/main/images/wingspan-comparison.png" width="500">
 
