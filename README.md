@@ -22,11 +22,10 @@ An Airflow-orchestrated ETL pipeline that ingests MMA data from an external API,
 MMA-Fighters-ETL-Pipeline/
 ├── dags/
 │   ├── dag.py
-│   scripts/
-│   ├── create_table.py
-│   ├── extract_data.py
-│   └── load_data.py
-│   └── __init__.py
+│       ├──scripts/
+│           ├── create_table.py
+│           ├── extract_data.py
+│           └── load_data.py
 ├── docker-compose.yml
 ├── requirements.txt
 ├── .env.example
